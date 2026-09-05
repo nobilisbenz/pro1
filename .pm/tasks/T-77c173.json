@@ -1,0 +1,22 @@
+{
+  "key": "T-77c173",
+  "parent": null,
+  "title": "task 3",
+  "description": "great",
+  "status": "todo",
+  "priority": "medium",
+  "assignee": "Nobilis Benz",
+  "createdBy": "Nobilis Benz",
+  "dueDate": null,
+  "startDate": null,
+  "tags": [],
+  "estimate": 4,
+  "cycle": 1,
+  "blockedBy": [],
+  "fields": {},
+  "attachments": [],
+  "subtasks": [],
+  "visibility": "internal",
+  "createdAt": "2026-09-05T22:46:25.971Z",
+  "updatedAt": "2026-09-05T22:46:25.971Z"
+}
