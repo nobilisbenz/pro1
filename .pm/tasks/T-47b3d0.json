@@ -1,0 +1,22 @@
+{
+  "key": "T-47b3d0",
+  "parent": null,
+  "title": "add task 2",
+  "description": "",
+  "status": "todo",
+  "priority": "low",
+  "assignee": "Nobilis Benz",
+  "createdBy": "Nobilis Benz",
+  "dueDate": null,
+  "startDate": null,
+  "tags": [],
+  "estimate": 1,
+  "cycle": 1,
+  "blockedBy": [],
+  "fields": {},
+  "attachments": [],
+  "subtasks": [],
+  "visibility": "internal",
+  "createdAt": "2026-09-05T19:22:49.371Z",
+  "updatedAt": "2026-09-05T22:20:16.375Z"
+}

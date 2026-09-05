@@ -1,0 +1,22 @@
+{
+  "key": "T-dc1ebd",
+  "parent": null,
+  "title": "add a file",
+  "description": "",
+  "status": "done",
+  "priority": "medium",
+  "assignee": "Nobilis Benz",
+  "createdBy": "Nobilis Benz",
+  "dueDate": null,
+  "startDate": null,
+  "tags": [],
+  "estimate": 4,
+  "cycle": 1,
+  "blockedBy": [],
+  "fields": {},
+  "attachments": [],
+  "subtasks": [],
+  "visibility": "internal",
+  "createdAt": "2026-09-05T19:21:05.128Z",
+  "updatedAt": "2026-09-05T22:20:57.245Z"
+}

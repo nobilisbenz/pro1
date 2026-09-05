@@ -1,0 +1,23 @@
+{
+  "slug": "pro1",
+  "name": "pro1",
+  "description": null,
+  "repo": "nobilisbenz/pro1",
+  "memberScope": "project",
+  "members": [
+    {
+      "name": "Nobilis Benz",
+      "email": "nobilisbenz@gmail.com",
+      "role": "admin",
+      "projectRole": "lead"
+    }
+  ],
+  "taskCounts": {
+    "todo": 1,
+    "doing": 0,
+    "review": 0,
+    "done": 2
+  },
+  "totalTasks": 3,
+  "lastActivityAt": "2026-09-05T22:29:55.047Z"
+}

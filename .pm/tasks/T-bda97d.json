@@ -1,0 +1,22 @@
+{
+  "key": "T-bda97d",
+  "parent": null,
+  "title": "bug task 2",
+  "description": "",
+  "status": "done",
+  "priority": "low",
+  "assignee": "Nobilis Benz",
+  "createdBy": "Nobilis Benz",
+  "dueDate": "2026-09-06",
+  "startDate": null,
+  "tags": [],
+  "estimate": 0.5,
+  "cycle": 1,
+  "blockedBy": [],
+  "fields": {},
+  "attachments": [],
+  "subtasks": [],
+  "visibility": "internal",
+  "createdAt": "2026-09-05T22:19:52.820Z",
+  "updatedAt": "2026-09-05T22:29:55.047Z"
+}

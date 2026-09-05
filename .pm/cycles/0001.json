@@ -1,0 +1,11 @@
+{
+  "number": 1,
+  "name": "night",
+  "startsAt": "2026-09-05T00:00:00.000Z",
+  "endsAt": "2026-09-12T00:00:00.000Z",
+  "tasks": [
+    "T-47b3d0",
+    "T-bda97d",
+    "T-dc1ebd"
+  ]
+}
