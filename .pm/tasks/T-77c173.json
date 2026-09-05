@@ -3,7 +3,7 @@
   "parent": null,
   "title": "task 3",
   "description": "great",
-  "status": "todo",
+  "status": "doing",
   "priority": "medium",
   "assignee": "Nobilis Benz",
   "createdBy": "Nobilis Benz",
@@ -18,5 +18,5 @@
   "subtasks": [],
   "visibility": "internal",
   "createdAt": "2026-09-05T22:46:25.971Z",
-  "updatedAt": "2026-09-05T22:46:25.971Z"
+  "updatedAt": "2026-09-05T22:47:59.979Z"
 }
